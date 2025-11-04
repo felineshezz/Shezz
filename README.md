@@ -1,2 +1,5 @@
 # Shezz
-"Hello Odin!"
+"Hello Odin sup man!"
+"Trying Commit body message"
+"Testing commit again"
+"wasd"
